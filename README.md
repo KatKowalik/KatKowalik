@@ -23,4 +23,4 @@ Working in client services for over 8 years, I had the opportunity to observe ho
 ### Github Stats
 <p>&nbsp;</p>
 
-![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatKowalik&show_icons=true&theme=onedark)
+![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatKowalik&show_icons=true&theme=buefy)
