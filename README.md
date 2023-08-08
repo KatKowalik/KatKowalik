@@ -1,6 +1,7 @@
 ### Kat Kowalik
 <p>&nbsp;</p>
-Working in client services for over 8 years, I had the opportunity to observe how technology has become increasingly present in sales and healthcare. In the post-pandemic world, most companies are transitioning to digital, which requires consumers to adapt to that change as well. I noticed that the change happened quickly, and many not very tech-savvy people were left out. That is why my goal is to leverage my analytical and problem-solving skills to produce accessible and profitable digital products.
+I'm a graduate from a Software Engineering Bootcamp with a diverse background. I've excelled in customer service, worked as a makeup artist and brand trainer, and hold a Master's degree in Pharmacy. 
+Now, I'm transitioning into the tech industry driven by my passion for creating accessible applications. I'm tech-savvy, empathetic, and a problem-solver, eager to be part of the tech transformation. I'm a self-learner and very disciplined. Not only do I love mastering programming languages, but I'm also passionate about learning regular languages, maintaining an impressive over 2-year streak on Duolingo app. With creativity and determination, I aim to make a significant impact by crafting applications that improve people's lives.
 <p>&nbsp;</p>
 
 ### Tech Stack
